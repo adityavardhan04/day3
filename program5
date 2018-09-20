@@ -1,4 +1,5 @@
 5:-Write a function to compare 2 numbers and test it.
+
 #include<stdio.h>
 int compare(int a,int b);
 void main()
